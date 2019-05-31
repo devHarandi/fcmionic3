@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "656942988592",
+    "firebase_url": "https://armangostar-994a8.firebaseio.com",
+    "project_id": "armangostar-994a8",
+    "storage_bucket": "armangostar-994a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656942988592:android:764d2cb7da3280eb",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656942988592-2cpec44knsp9n1kr18ste1pl5mcujjqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3XaE2N32oq3sydrD1LIN53y8ZGyxbsFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656942988592-2cpec44knsp9n1kr18ste1pl5mcujjqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

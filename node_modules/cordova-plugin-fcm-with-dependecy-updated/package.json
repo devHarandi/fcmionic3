@@ -1,0 +1,105 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-fcm-with-dependecy-updated",
+        "scope": null,
+        "escapedName": "cordova-plugin-fcm-with-dependecy-updated",
+        "name": "cordova-plugin-fcm-with-dependecy-updated",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/herman/Desktop/github/fcmionic3"
+    ]
+  ],
+  "_from": "cordova-plugin-fcm-with-dependecy-updated@latest",
+  "_hasShrinkwrap": false,
+  "_id": "cordova-plugin-fcm-with-dependecy-updated@2.4.0",
+  "_inCache": true,
+  "_location": "/cordova-plugin-fcm-with-dependecy-updated",
+  "_nodeVersion": "10.12.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-fcm-with-dependecy-updated_2.4.0_1544643075286_0.9138670810175105"
+  },
+  "_npmUser": {
+    "name": "andretissot",
+    "email": "andre_a_tissot@yahoo.com.br"
+  },
+  "_npmVersion": "6.4.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-fcm-with-dependecy-updated",
+    "scope": null,
+    "escapedName": "cordova-plugin-fcm-with-dependecy-updated",
+    "name": "cordova-plugin-fcm-with-dependecy-updated",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-fcm-with-dependecy-updated/-/cordova-plugin-fcm-with-dependecy-updated-2.4.0.tgz",
+  "_shasum": "675408e44793d5f5ee899f263a0c3b2a79363455",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-fcm-with-dependecy-updated",
+  "_where": "/Users/herman/Desktop/github/fcmionic3",
+  "author": {
+    "name": "André Augusto Tissot"
+  },
+  "bugs": {
+    "url": "https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated/issues"
+  },
+  "cordova_name": "Cordova FCM Push Plugin",
+  "dependencies": {},
+  "description": "Google Firebase Cloud Messaging Cordova Push Plugin fork with dependecy updated",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-L199FSZBdCwBPND+eemN44MRDTqsOJA05/hmUmjMRN6Z4HoEn//x8PwphIovvQyDscW4Hrc6fRlHQBvVzFIQrQ==",
+    "shasum": "675408e44793d5f5ee899f263a0c3b2a79363455",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-fcm-with-dependecy-updated/-/cordova-plugin-fcm-with-dependecy-updated-2.4.0.tgz",
+    "fileCount": 48,
+    "unpackedSize": 24777302,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcEWIHCRA9TVsSAnZWagAAuAMP+gKNI0vQynGLxqkGluar\noFh9cxeNdsgaozgerjQ06M9BplDgb/rchz5gz8+5k4tCl1vyZMt7NaUz1JpL\nGcGez62rogns6VtlypgyLTQ5AZFShUlMDyzz/e55poWeBm/AckWDt+WrUR5M\nyLLROWLm/CRXjAlPwsY+LVvcmTo7Mv/9222b6dBxMhyAx5mDcFcDTFULO3H1\nM87EoR7KI6BEF/MkkI+4S1PtV1OiBHgQ3P3q/Yv2JD1LHX7vpS9nn6kr9V+P\n0uqXf/CYPP0Y0sUJVsAj/Qn5sDVfuYLS2SoPXSfflPLFXb6PBhH7KIKpVoWw\nZaA7IQB8yv0nYRY7qQT1K7ZKgqBD3Xpw4CLDH0ElYzsTff0779FxDmrgKAbq\nBr+mrXEHfv9/YeLwXdqV7Gq/rQTre2iA64UTZ13t4gJe9FkOaduzZkouMdC/\nTgvuUCDFy9aPL1XQwFtbc6HDBSlZS4cNDpNXcSGDdQYhydcQSw6znkZl6bTI\nDPruEDmQ3JAXrTSbjpb69/8WHgDLoitbtzUpmq0KS6r/cmGZB4Ru7goOhPnW\niJnZC8YZSc5+UfsF33HCs8GhKn91UQW03aad6glEV4vO2Eg26biq6gWhSI0P\nPPt6S5nInz5NCbeZRbmd9R8ZzwCUripz3JLlJWIZLj29hrxUGE2QLs8IVc+4\ntEIR\r\n=5qgE\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "engines": [],
+  "englishdoc": "",
+  "gitHead": "80a287d935b35cea8c510a02490e5fade2faa5e5",
+  "homepage": "https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated#readme",
+  "issue": "",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "notifications",
+    "push",
+    "firebase",
+    "fcm",
+    "ios",
+    "android",
+    "cordova"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "andretissot",
+      "email": "andre_a_tissot@yahoo.com.br"
+    }
+  ],
+  "name": "cordova-plugin-fcm-with-dependecy-updated",
+  "optionalDependencies": {},
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "readme": "ERROR: No README data found!",
+  "repo": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated.git"
+  },
+  "version": "2.4.0"
+}

@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/herman/Desktop/github/fcmionic3/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.6.aar/bf06a9d03e258b184a0da5996e243201/res/values/values.xml",
+                    "from": {
+                        "startLines": "4,7",
+                        "startColumns": "0,0",
+                        "startOffsets": "276,439",
+                        "endColumns": "63,166",
+                        "endOffsets": "339,605"
+                    },
+                    "to": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "105,278",
+                        "endColumns": "67,166",
+                        "endOffsets": "168,440"
+                    }
+                },
+                {
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.2.6.aar/8d0b88329102eb0857dbbed0417bdab3/res/values/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "176",
+                        "endColumns": "77",
+                        "endOffsets": "253"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "589",
+                        "endColumns": "81",
+                        "endOffsets": "666"
+                    }
+                },
+                {
+                    "source": "/Users/herman/Desktop/github/fcmionic3/platforms/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "155,55,96",
+                        "endColumns": "63,40,58",
+                        "endOffsets": "214,91,150"
+                    },
+                    "to": {
+                        "startLines": "3,4,14",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "173,237,1293",
+                        "endColumns": "63,40,58",
+                        "endOffsets": "232,273,1347"
+                    }
+                },
+                {
+                    "source": "/Users/herman/Desktop/github/fcmionic3/platforms/android/app/build/generated/res/google-services/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,311,393,497,600,720,821",
+                        "endColumns": "143,111,81,103,102,119,100,77",
+                        "endOffsets": "194,306,388,492,595,715,816,894"
+                    },
+                    "to": {
+                        "startLines": "6,8,9,10,11,12,13,15",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "445,671,783,865,969,1072,1192,1352",
+                        "endColumns": "143,111,81,103,102,119,100,77",
+                        "endOffsets": "584,778,860,964,1067,1187,1288,1425"
+                    }
+                }
+            ]
+        }
+    ]
+}

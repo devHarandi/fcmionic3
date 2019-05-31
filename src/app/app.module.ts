@@ -6,6 +6,7 @@ import { StatusBar } from '@ionic-native/status-bar';
 
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
+import { FCM } from '@ionic-native/fcm';
 
 @NgModule({
   declarations: [
@@ -24,6 +25,7 @@ import { HomePage } from '../pages/home/home';
   providers: [
     StatusBar,
     SplashScreen,
+    FCM,
     {provide: ErrorHandler, useClass: IonicErrorHandler}
   ]
 })
